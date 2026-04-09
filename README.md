@@ -1,5 +1,6 @@
-![Project Header](Dermatology.png)
-# Skin-Cancer-Classification-DeepLearning
+<p align="center">
+  <img src="Dermatology .png" width="800" title="Medical AI Project Header">
+</p># Skin-Cancer-Classification-DeepLearning
 Advanced Skin Cancer Classification using Deep Learning (CNNs). Implements Transfer Learning with ResNet, DenseNet, and EfficientNet on medical imaging for binary and multi-class diagnosis
 # Skin Cancer Classification System - Deep Learning Lab
 **Lead AI_ML Engineer: Mahmoud Souliman**
